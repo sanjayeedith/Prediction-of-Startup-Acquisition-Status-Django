@@ -54,7 +54,7 @@ But first we had to prepare the data through the following steps:
 
 <br>
 
-<h2> Model Deployment using Flask and Heroku:</h2>
+<h2> Model Deployment using Django and Heroku:</h2>
 <br>
 
  **App link:** https://team-a-model-deployment-django.herokuapp.com/
